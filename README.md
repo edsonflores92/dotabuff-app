@@ -1,5 +1,10 @@
 # Dotabuff App
 
+## Próximos pasos
+- Backend con Express y axios para consultar Dotabuff
+- Frontend con React para mostrar héroes
+- Conexión entre ambos
+
 Proyecto inicial para consultar datos de Dotabuff desde un frontend estático y un backend Node.js.
 
 ## Estructura
